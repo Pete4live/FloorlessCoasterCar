@@ -1,0 +1,950 @@
+[17-03-31 23:05:47] Info: Compiling Floorless Coaster to bin/build-170331230547911.dll...
+[17-03-31 23:05:47] Info: Compiling from `ModSparkLoader.csproj`.
+[17-03-31 23:05:47] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-03-31 23:05:47] Info: IGNORING assembly reference `Depender`
+[17-03-31 23:05:47] Info: Resolved assembly reference `System` to `System.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-03-31 23:05:47] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-03-31 23:05:47] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-03-31 23:05:47] Info: Compile using compiler version v3.5.
+[17-03-31 23:06:03] Info: Loaded build-170331230547911, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-03-31 23:06:03] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-03-31 23:07:38] Info: Loaded build-170331230547911, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-03-31 23:07:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-03-31 23:08:36] Info: Loaded build-170331230547911, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-03-31 23:08:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-03-31 23:12:36] Info: Compiling Floorless Coaster to bin/build-170331231236851.dll...
+[17-03-31 23:12:36] Info: Compiling from `ModSparkLoader.csproj`.
+[17-03-31 23:12:36] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-03-31 23:12:36] Info: IGNORING assembly reference `Depender`
+[17-03-31 23:12:36] Info: Resolved assembly reference `System` to `System.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-03-31 23:12:36] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-03-31 23:12:36] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-03-31 23:12:36] Info: Compile using compiler version v3.5.
+[17-03-31 23:12:56] Info: Loaded build-170331231236851, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-03-31 23:12:56] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-03-31 23:17:15] Info: Compiling Floorless Coaster to bin/build-170331231715301.dll...
+[17-03-31 23:17:15] Info: Compiling from `ModSparkLoader.csproj`.
+[17-03-31 23:17:15] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-03-31 23:17:15] Info: IGNORING assembly reference `Depender`
+[17-03-31 23:17:15] Info: Resolved assembly reference `System` to `System.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-03-31 23:17:15] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-03-31 23:17:15] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-03-31 23:17:15] Info: Compile using compiler version v3.5.
+[17-03-31 23:17:23] Info: Loaded build-170331231715301, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-03-31 23:17:23] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-01 19:50:54] Info: Compiling Floorless Coaster to bin/build-170401195054093.dll...
+[17-04-01 19:50:54] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-01 19:50:54] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-01 19:50:54] Info: IGNORING assembly reference `Depender`
+[17-04-01 19:50:54] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-01 19:50:54] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-01 19:50:54] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-01 19:50:54] Info: Compile using compiler version v3.5.
+[17-04-01 19:51:21] Info: Loaded build-170401195054093, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-01 19:51:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-01 19:54:38] Info: Compiling Floorless Coaster to bin/build-170401195438048.dll...
+[17-04-01 19:54:38] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-01 19:54:38] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-01 19:54:38] Info: IGNORING assembly reference `Depender`
+[17-04-01 19:54:38] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-01 19:54:38] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-01 19:54:38] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-01 19:54:38] Info: Compile using compiler version v3.5.
+[17-04-01 19:54:46] Info: Loaded build-170401195438048, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-01 19:54:46] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-01 22:21:53] Info: Loaded build-170401195438048, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-01 22:21:53] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-01 22:37:23] Info: Loaded build-170401195438048, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-01 22:37:23] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:16:49] Info: Compiling Floorless Coaster to bin/build-170402001649800.dll...
+[17-04-02 00:16:49] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:16:49] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:16:49] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:16:49] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:16:49] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:16:49] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:16:49] Info: Compile using compiler version v3.5.
+[17-04-02 00:16:52] Info: Compiling Floorless Coaster to bin/build-170402001652910.dll...
+[17-04-02 00:16:52] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:16:52] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:16:52] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:16:52] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:16:52] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:16:52] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:16:52] Info: Compile using compiler version v3.5.
+[17-04-02 00:17:03] Info: Loaded build-170402001652910, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:17:03] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:17:40] Info: Compiling Floorless Coaster to bin/build-170402001740360.dll...
+[17-04-02 00:17:40] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:17:40] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:17:40] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:17:40] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:17:40] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:17:40] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:17:40] Info: Compile using compiler version v3.5.
+[17-04-02 00:17:52] Info: Loaded build-170402001740360, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:17:52] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:25:04] Info: Compiling Floorless Coaster to bin/build-170402002504337.dll...
+[17-04-02 00:25:04] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:25:04] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:25:04] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:25:04] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:25:04] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:25:04] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:25:04] Info: Compile using compiler version v3.5.
+[17-04-02 00:27:06] Info: Compiling Floorless Coaster to bin/build-170402002706318.dll...
+[17-04-02 00:27:06] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:27:06] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:27:06] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:27:06] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:27:06] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:27:06] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:27:06] Info: Compile using compiler version v3.5.
+[17-04-02 00:27:14] Info: Loaded build-170402002706318, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:27:14] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:34:48] Info: Compiling Floorless Coaster to bin/build-170402003448658.dll...
+[17-04-02 00:34:48] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:34:48] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:34:48] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:34:48] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:34:48] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:34:48] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:34:48] Info: Compile using compiler version v3.5.
+[17-04-02 00:34:56] Info: Loaded build-170402003448658, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:34:56] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:39:58] Info: Compiling Floorless Coaster to bin/build-170402003958832.dll...
+[17-04-02 00:39:58] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:39:58] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:39:58] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:39:58] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:39:58] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:39:58] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:39:58] Info: Compile using compiler version v3.5.
+[17-04-02 00:40:06] Info: Loaded build-170402003958832, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:40:06] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:42:59] Info: Compiling Floorless Coaster to bin/build-170402004259824.dll...
+[17-04-02 00:42:59] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 00:42:59] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 00:42:59] Info: IGNORING assembly reference `Depender`
+[17-04-02 00:42:59] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 00:42:59] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 00:42:59] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 00:42:59] Info: Compile using compiler version v3.5.
+[17-04-02 00:43:07] Info: Loaded build-170402004259824, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:43:07] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 00:46:16] Info: Loaded build-170402004259824, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 00:46:16] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:00:11] Info: Loaded build-170402004259824, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:00:11] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:01:52] Info: Compiling Floorless Coaster to bin/build-170402130152552.dll...
+[17-04-02 13:01:52] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:01:52] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:01:52] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:01:52] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:01:52] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:01:52] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:01:52] Info: Compile using compiler version v3.5.
+[17-04-02 13:02:05] Info: Loaded build-170402130152552, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:02:05] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:05:59] Info: Compiling Floorless Coaster to bin/build-170402130559521.dll...
+[17-04-02 13:05:59] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:05:59] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:05:59] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:05:59] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:05:59] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:05:59] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:05:59] Info: Compile using compiler version v3.5.
+[17-04-02 13:06:06] Info: Loaded build-170402130559521, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:06:06] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:10:14] Info: Compiling Floorless Coaster to bin/build-170402131014127.dll...
+[17-04-02 13:10:14] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:10:14] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:10:14] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:10:14] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:10:14] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:10:14] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:10:14] Info: Compile using compiler version v3.5.
+[17-04-02 13:10:21] Info: Loaded build-170402131014127, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:10:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:15:45] Info: Compiling Floorless Coaster to bin/build-170402131545978.dll...
+[17-04-02 13:15:45] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:15:45] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:15:45] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:15:45] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:15:45] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:15:45] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:15:45] Info: Compile using compiler version v3.5.
+[17-04-02 13:15:48] Info: Compiling Floorless Coaster to bin/build-170402131548522.dll...
+[17-04-02 13:15:48] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:15:48] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:15:48] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:15:48] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:15:48] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:15:48] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:15:48] Info: Compile using compiler version v3.5.
+[17-04-02 13:15:55] Info: Loaded build-170402131548522, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:15:55] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:28:28] Info: Compiling Floorless Coaster to bin/build-170402132828852.dll...
+[17-04-02 13:28:28] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:28:28] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:28:28] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:28:28] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:28:28] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:28:28] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:28:28] Info: Compile using compiler version v3.5.
+[17-04-02 13:28:36] Info: Loaded build-170402132828852, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:28:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 13:31:16] Info: Compiling Floorless Coaster to bin/build-170402133116693.dll...
+[17-04-02 13:31:16] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 13:31:16] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 13:31:16] Info: IGNORING assembly reference `Depender`
+[17-04-02 13:31:16] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 13:31:16] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 13:31:16] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 13:31:16] Info: Compile using compiler version v3.5.
+[17-04-02 13:31:23] Info: Loaded build-170402133116693, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 13:31:23] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 14:10:59] Info: Compiling Floorless Coaster to bin/build-170402141059618.dll...
+[17-04-02 14:10:59] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 14:10:59] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 14:10:59] Info: IGNORING assembly reference `Depender`
+[17-04-02 14:10:59] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 14:10:59] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 14:10:59] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 14:10:59] Info: Compile using compiler version v3.5.
+[17-04-02 14:11:08] Info: Loaded build-170402141059618, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 14:11:08] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 15:47:53] Info: Compiling Floorless Coaster to bin/build-170402154753642.dll...
+[17-04-02 15:47:53] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 15:47:53] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 15:47:53] Info: IGNORING assembly reference `Depender`
+[17-04-02 15:47:53] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 15:47:53] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 15:47:53] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 15:47:53] Info: Compile using compiler version v3.5.
+[17-04-02 15:48:01] Info: Loaded build-170402154753642, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 15:48:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 15:49:47] Info: Compiling Floorless Coaster to bin/build-170402154947382.dll...
+[17-04-02 15:49:47] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 15:49:47] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 15:49:47] Info: IGNORING assembly reference `Depender`
+[17-04-02 15:49:47] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 15:49:47] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 15:49:47] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 15:49:47] Info: Compile using compiler version v3.5.
+[17-04-02 15:49:55] Info: Loaded build-170402154947382, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 15:49:55] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 15:54:19] Info: Compiling Floorless Coaster to bin/build-170402155419699.dll...
+[17-04-02 15:54:19] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 15:54:19] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 15:54:19] Info: IGNORING assembly reference `Depender`
+[17-04-02 15:54:19] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 15:54:19] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 15:54:19] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 15:54:19] Info: Compile using compiler version v3.5.
+[17-04-02 15:54:28] Info: Loaded build-170402155419699, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 15:54:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:03:37] Info: Compiling Floorless Coaster to bin/build-170402160337714.dll...
+[17-04-02 16:03:37] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:03:37] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:03:37] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:03:37] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:03:37] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:03:37] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:03:37] Info: Compile using compiler version v3.5.
+[17-04-02 16:03:45] Info: Loaded build-170402160337714, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:03:45] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:09:45] Info: Compiling Floorless Coaster to bin/build-170402160945962.dll...
+[17-04-02 16:09:45] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:09:45] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:09:45] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:09:45] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:09:45] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:09:45] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:09:45] Info: Compile using compiler version v3.5.
+[17-04-02 16:09:54] Info: Loaded build-170402160945962, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:09:54] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:12:30] Info: Compiling Floorless Coaster to bin/build-170402161230446.dll...
+[17-04-02 16:12:30] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:12:30] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:12:30] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:12:30] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:12:30] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:12:30] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:12:30] Info: Compile using compiler version v3.5.
+[17-04-02 16:12:37] Info: Loaded build-170402161230446, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:12:37] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:13:47] Info: Compiling Floorless Coaster to bin/build-170402161347510.dll...
+[17-04-02 16:13:47] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:13:47] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:13:47] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:13:47] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:13:47] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:13:47] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:13:47] Info: Compile using compiler version v3.5.
+[17-04-02 16:13:59] Info: Compiling Floorless Coaster to bin/build-170402161359941.dll...
+[17-04-02 16:13:59] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:13:59] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:13:59] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:13:59] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:13:59] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:13:59] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:13:59] Info: Compile using compiler version v3.5.
+[17-04-02 16:14:25] Info: Loaded build-170402161359941, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:14:25] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:16:47] Info: Compiling Floorless Coaster to bin/build-170402161647967.dll...
+[17-04-02 16:16:47] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:16:47] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:16:47] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:16:47] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:16:47] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:16:47] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:16:47] Info: Compile using compiler version v3.5.
+[17-04-02 16:17:00] Info: Loaded build-170402161647967, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:17:00] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:19:41] Info: Compiling Floorless Coaster to bin/build-170402161941508.dll...
+[17-04-02 16:19:41] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:19:41] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:19:41] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:19:41] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:19:41] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:19:41] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:19:41] Info: Compile using compiler version v3.5.
+[17-04-02 16:19:48] Info: Loaded build-170402161941508, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:19:48] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:23:00] Info: Compiling Floorless Coaster to bin/build-170402162300569.dll...
+[17-04-02 16:23:00] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:23:00] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:23:00] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:23:00] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:23:00] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:23:00] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:23:00] Info: Compile using compiler version v3.5.
+[17-04-02 16:23:07] Info: Loaded build-170402162300569, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:23:07] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:28:04] Info: Compiling Floorless Coaster to bin/build-170402162804051.dll...
+[17-04-02 16:28:04] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:28:04] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:28:04] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:28:04] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:28:04] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:28:04] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:28:04] Info: Compile using compiler version v3.5.
+[17-04-02 16:28:12] Info: Loaded build-170402162804051, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:28:12] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:29:38] Info: Compiling Floorless Coaster to bin/build-170402162938546.dll...
+[17-04-02 16:29:38] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:29:38] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:29:38] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:29:38] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:29:38] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:29:38] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:29:38] Info: Compile using compiler version v3.5.
+[17-04-02 16:29:46] Info: Loaded build-170402162938546, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:29:46] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:32:32] Info: Compiling Floorless Coaster to bin/build-170402163232248.dll...
+[17-04-02 16:32:32] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:32:32] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:32:32] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:32:32] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:32:32] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:32:32] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:32:32] Info: Compile using compiler version v3.5.
+[17-04-02 16:32:39] Info: Loaded build-170402163232248, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:32:39] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:38:53] Info: Compiling Floorless Coaster to bin/build-170402163853895.dll...
+[17-04-02 16:38:53] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:38:53] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:38:53] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:38:53] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:38:53] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:38:53] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:38:53] Info: Compile using compiler version v3.5.
+[17-04-02 16:39:01] Info: Loaded build-170402163853895, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:39:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:40:30] Info: Compiling Floorless Coaster to bin/build-170402164030918.dll...
+[17-04-02 16:40:30] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:40:30] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:40:30] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:40:30] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:40:30] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:40:30] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:40:30] Info: Compile using compiler version v3.5.
+[17-04-02 16:40:38] Info: Loaded build-170402164030918, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:40:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:42:43] Info: Compiling Floorless Coaster to bin/build-170402164243283.dll...
+[17-04-02 16:42:43] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:42:43] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:42:43] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:42:43] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:42:43] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:42:43] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:42:43] Info: Compile using compiler version v3.5.
+[17-04-02 16:42:50] Info: Loaded build-170402164243283, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:42:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:45:28] Info: Compiling Floorless Coaster to bin/build-170402164528706.dll...
+[17-04-02 16:45:28] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:45:28] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:45:28] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:45:28] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:45:28] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:45:28] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:45:28] Info: Compile using compiler version v3.5.
+[17-04-02 16:45:35] Info: Loaded build-170402164528706, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:45:35] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:46:19] Info: Compiling Floorless Coaster to bin/build-170402164619856.dll...
+[17-04-02 16:46:19] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:46:19] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:46:19] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:46:19] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:46:19] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:46:19] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:46:19] Info: Compile using compiler version v3.5.
+[17-04-02 16:46:28] Info: Loaded build-170402164619856, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:46:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:47:17] Info: Compiling Floorless Coaster to bin/build-170402164717557.dll...
+[17-04-02 16:47:17] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:47:17] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:47:17] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:47:17] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:47:17] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:47:17] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:47:17] Info: Compile using compiler version v3.5.
+[17-04-02 16:47:26] Info: Loaded build-170402164717557, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:47:26] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:47:31] Info: Compiling Floorless Coaster to bin/build-170402164731147.dll...
+[17-04-02 16:47:31] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:47:31] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:47:31] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:47:31] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:47:31] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:47:31] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:47:31] Info: Compile using compiler version v3.5.
+[17-04-02 16:47:38] Info: Loaded build-170402164731147, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:47:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:48:12] Info: Compiling Floorless Coaster to bin/build-170402164812603.dll...
+[17-04-02 16:48:12] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:48:12] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:48:12] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:48:12] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:48:12] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:48:12] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:48:12] Info: Compile using compiler version v3.5.
+[17-04-02 16:48:19] Info: Loaded build-170402164812603, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:48:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:53:05] Info: Compiling Floorless Coaster to bin/build-170402165305929.dll...
+[17-04-02 16:53:05] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:53:05] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:53:05] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:53:05] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:53:05] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:53:05] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:53:05] Info: Compile using compiler version v3.5.
+[17-04-02 16:53:24] Info: Loaded build-170402165305929, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:53:24] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:54:18] Info: Compiling Floorless Coaster to bin/build-170402165418287.dll...
+[17-04-02 16:54:18] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 16:54:18] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 16:54:18] Info: IGNORING assembly reference `Depender`
+[17-04-02 16:54:18] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 16:54:18] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 16:54:18] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 16:54:18] Info: Compile using compiler version v3.5.
+[17-04-02 16:54:25] Info: Loaded build-170402165418287, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:54:25] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 16:58:33] Info: Loaded build-170402165418287, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 16:58:33] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:01:01] Info: Compiling Floorless Coaster to bin/build-170402170101012.dll...
+[17-04-02 17:01:01] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:01:01] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:01:01] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:01:01] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:01:01] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:01:01] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:01:01] Info: Compile using compiler version v3.5.
+[17-04-02 17:01:07] Info: Loaded build-170402170101012, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:01:07] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:05:54] Info: Compiling Floorless Coaster to bin/build-170402170554098.dll...
+[17-04-02 17:05:54] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:05:54] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:05:54] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:05:54] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:05:54] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:05:54] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:05:54] Info: Compile using compiler version v3.5.
+[17-04-02 17:06:01] Info: Loaded build-170402170554098, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:06:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:07:29] Info: Compiling Floorless Coaster to bin/build-170402170729930.dll...
+[17-04-02 17:07:29] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:07:29] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:07:29] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:07:29] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:07:29] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:07:29] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:07:29] Info: Compile using compiler version v3.5.
+[17-04-02 17:07:36] Info: Loaded build-170402170729930, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:07:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:08:58] Info: Loaded build-170402170729930, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:08:58] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:11:06] Info: Compiling Floorless Coaster to bin/build-170402171106251.dll...
+[17-04-02 17:11:06] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:11:06] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:11:06] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:11:06] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:11:06] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:11:06] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:11:06] Info: Compile using compiler version v3.5.
+[17-04-02 17:11:13] Info: Loaded build-170402171106251, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:11:13] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:12:45] Info: Compiling Floorless Coaster to bin/build-170402171245745.dll...
+[17-04-02 17:12:45] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:12:45] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:12:45] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:12:45] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:12:45] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:12:45] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:12:45] Info: Compile using compiler version v3.5.
+[17-04-02 17:12:52] Info: Loaded build-170402171245745, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:12:52] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:14:16] Info: Compiling Floorless Coaster to bin/build-170402171416315.dll...
+[17-04-02 17:14:16] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:14:16] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:14:16] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:14:16] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:14:16] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:14:16] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:14:16] Info: Compile using compiler version v3.5.
+[17-04-02 17:14:23] Info: Loaded build-170402171416315, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:14:23] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:16:12] Info: Compiling Floorless Coaster to bin/build-170402171612319.dll...
+[17-04-02 17:16:12] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:16:12] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:16:12] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:16:12] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:16:12] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:16:12] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:16:12] Info: Compile using compiler version v3.5.
+[17-04-02 17:16:19] Info: Loaded build-170402171612319, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:16:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:16:23] Info: Compiling Floorless Coaster to bin/build-170402171623787.dll...
+[17-04-02 17:16:23] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:16:23] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:16:23] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:16:23] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:16:23] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:16:23] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:16:23] Info: Compile using compiler version v3.5.
+[17-04-02 17:16:26] Info: Compiling Floorless Coaster to bin/build-170402171626762.dll...
+[17-04-02 17:16:26] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:16:26] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:16:26] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:16:26] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:16:26] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:16:26] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:16:26] Info: Compile using compiler version v3.5.
+[17-04-02 17:16:33] Info: Loaded build-170402171626762, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:16:33] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:17:43] Info: Compiling Floorless Coaster to bin/build-170402171743240.dll...
+[17-04-02 17:17:43] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:17:43] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:17:43] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:17:43] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:17:43] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:17:43] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:17:43] Info: Compile using compiler version v3.5.
+[17-04-02 17:17:51] Info: Loaded build-170402171743240, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:17:51] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:19:38] Info: Compiling Floorless Coaster to bin/build-170402171938892.dll...
+[17-04-02 17:19:38] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:19:38] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:19:38] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:19:38] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:19:38] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:19:38] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:19:38] Info: Compile using compiler version v3.5.
+[17-04-02 17:19:46] Info: Loaded build-170402171938892, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:19:46] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:28:42] Info: Compiling Floorless Coaster to bin/build-170402172842124.dll...
+[17-04-02 17:28:42] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:28:42] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:28:42] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:28:42] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:28:42] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:28:42] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:28:42] Info: Compile using compiler version v3.5.
+[17-04-02 17:28:49] Info: Loaded build-170402172842124, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:28:49] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:43:47] Info: Compiling Floorless Coaster to bin/build-170402174347993.dll...
+[17-04-02 17:43:47] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:43:47] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:43:47] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:43:47] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:43:47] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:43:47] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:43:47] Info: Compile using compiler version v3.5.
+[17-04-02 17:43:54] Info: Loaded build-170402174347993, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:43:54] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[17-04-02 17:44:21] Info: Compiling Floorless Coaster to bin/build-170402174421377.dll...
+[17-04-02 17:44:21] Info: Compiling from `ModSparkLoader.csproj`.
+[17-04-02 17:44:21] Info: Resolved assembly reference `Assembly-CSharp` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[17-04-02 17:44:21] Info: IGNORING assembly reference `Depender`
+[17-04-02 17:44:21] Info: Resolved assembly reference `System` to `System.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `UnityEngine` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[17-04-02 17:44:21] Info: Resolved assembly reference `UnityEngine.UI` to `d:/marijn/documents/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[17-04-02 17:44:21] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `D:\Marijn\Documents\Parkitect\pnmods\Floorless Coaster`.
+[17-04-02 17:44:21] Info: Compile using compiler version v3.5.
+[17-04-02 17:44:28] Info: Loaded build-170402174421377, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[17-04-02 17:44:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.

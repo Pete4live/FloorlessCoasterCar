@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Floorless Coaster</ModName>
+  <ModDiscription>B&amp;M Floorless</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Floorless Coaster@FloorlessCoasterFront0.4</OBJName>
+      <Type>CoasterCar</Type>
+      <inGameName>Floorless Coaster Cars</inGameName>
+      <price>0</price>
+      <CoasterName>Wing Coaster</CoasterName>
+      <RestraintAngle>(0.0, 0.0, -135.0)</RestraintAngle>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>FFED00</Color1>
+      <Color2>C99A00</Color2>
+      <Color3>232323</Color3>
+      <Color4>3300D5</Color4>
+    </Object>
+  </Objects>
+</Mod>

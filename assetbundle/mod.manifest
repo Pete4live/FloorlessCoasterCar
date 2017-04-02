@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2793636424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee07363a21eef3b39f8371878cd1b1f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc01c0f0a89e785b99160c79df0a31db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Floorless Coaster/Floorless Coaster@FloorlessCoasterFront0.4.prefab
+Dependencies: []

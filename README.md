@@ -1,2 +1,4 @@
-# FloorlessCoasterCar
-Floorless Coaster Car mod adds Floorless Coaster cars to the game.
+# CustomSceneryModTemplate
+Mod template for custom scenery
+
+See https://parkitectnexus.com/modding-wiki for documentation
